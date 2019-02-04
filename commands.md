@@ -7,4 +7,5 @@
 2. Show what is the port a service.
 
     **ps aux | grep "servicio"**
+    
     **sudo netstat -lnpt | grep "proceso"**
