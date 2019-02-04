@@ -4,7 +4,7 @@
 
     **sudo netstat -lnpt | grep "puerto**
     
-2. Show what is the port a service.
+2. Show what is the service's port.
 
     **ps aux | grep "servicio"**
     
