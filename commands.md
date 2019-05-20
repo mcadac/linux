@@ -10,5 +10,11 @@
     
     **sudo netstat -lnpt | grep "proceso"**
 
+3. Show memory use
+
+   **sudo df -h**
+
+
 ## References
 - Fabio Martinez
+ 
