@@ -125,10 +125,10 @@
    
 28. How much space do we have
 
-   **df**
-   **df -h**
-   **top**
-   **htop**
+      **df**
+      **df -h**
+      **top**
+      **htop**
    
 
 
