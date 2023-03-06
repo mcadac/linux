@@ -41,87 +41,87 @@
    
 10. See which user I am
 
-   **whoami**
+      **whoami**
    
 11. Add user
 
-   **sudo useradd newuser**
-   **sudo adduser newuser**
+      **sudo useradd newuser**
+      **sudo adduser newuser**
    
 12. Change user 
 
-   **su nameuser**
+      **su nameuser**
    
 13. Chane passwors
 
-   **sudo passwd username**
+      **sudo passwd username**
    
 14. Show where a command is set up
 
-   **whereis java**
+      **whereis java**
    
 15. Zip and Unzip a file
 
-   **zip filename.txt**
-   **unzip filename.txt**
+      **zip filename.txt**
+      **unzip filename.txt**
    
 16. Read a file from terminal  (better than cat)
 
-   **less filename.txt**
-   **head filename.txt**
-   **tail filename.txt**
+      **less filename.txt**
+      **head filename.txt**
+      **tail filename.txt**
    
 17. Compare files 
 
-   **cmp filename1 filename2**
+      **cmp filename1 filename2**
    
 18. Show difference between files
 
-   **diff filename1 filename2**
+      **diff filename1 filename2**
    
 19. Sort command
 
-   **ls | sort**
-   **cat filename.txt | sort**
+      **ls | sort**
+      **cat filename.txt | sort**
    
 19. Find a file 
 
-   **sudo find / -name "filename"**
-   **sudo find . -type f -name ".*"**
-   **find . -type f -empty** this is to find empty files
+      **sudo find / -name "filename"**
+      **sudo find . -type f -name ".*"**
+      **find . -type f -empty** this is to find empty files
 
 20.  Make a file executable
 
-   **chmod +x executablefile.sh**
+      **chmod +x executablefile.sh**
    
 21. Change owner on the file 
 
-   **chown username file**
+      **chown username file**
    
 22. Greap command
 
-   **ifconfig | grep utun0**
-   **ifconfig | grep utun0 | awk '{print $2}'**
+      **ifconfig | grep utun0**
+      **ifconfig | grep utun0 | awk '{print $2}'**
 
 23. ping command
 
-   **ping -c www.google.com**
+      **ping -c www.google.com**
    
 24. if we want to see the request's route
 
-   **traceroute www.google.com**
+      **traceroute www.google.com**
    
 25. Know more about our system
 
-   **uname -a**
+      **uname -a**
    
 26. Print out a calendar
 
-   **cal**
+      **cal**
 
 27. Make math calculation from terminal
 
-   **echo "2+3+4+5" | bc**
+      **echo "2+3+4+5" | bc**
    
 28. How much space do we have
 
